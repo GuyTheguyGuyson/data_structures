@@ -1,0 +1,5 @@
+csv_text = """file_name: ,version: ,size_bytes: ,content_type:
+file1.txt ,1 ,100 ,text/plain
+file2.txt ,1 ,200 ,text/plain
+file3.txt ,2 ,150 ,text/plain
+"""
